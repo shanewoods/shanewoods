@@ -9,7 +9,7 @@ A bit about me:
 - 🗺️ In the near future, I would love to get out and travel to see family I haven't seen in a while and open my eyes to new destinations through travel. 
 - 🎭 I have always had a fond appreciation for Art and expression of many flavors. Painting, Music, Poetry, Performance arts to name a few. 
 
-- 📚 [Click Here] for an update from my latest studies.
+- 📚 [Click Here]:https://github.com/shanewoods/List-of-courses/ for an update from my latest studies.
 
 Please don't forget to connect with me, I am open to collaboration and looking to share more updates via my social networks as we are mostly remote now I truly enjoy engaging with others and learning from others as much as possible. 
 
