@@ -1,12 +1,13 @@
 # 👋 🌎 Greetings earthlings! My name is Shane Woods. 
 
-I am software engineer currently living in the US 🇺🇸  I’m currently learning Front end (html, css, JavaScript) and some Java ☕. 
+I am software engineer currently living in the US 🇺🇸.
+I’m currently learning Front end (html, css, JavaScript) and some Java ☕. 
 
 I was the kid who took apart his toys to add parts to other toys to make them better. I always enjoy breaking things down to see how they work and rebuilding them. Naturally, I enjoy solving problems and as technology involves I work to stay current. 
 
 # A bit about me: 
 
-- 👪 <br>  I enjoy spending time with my family. Every decision I have made has been with family in mind. 
+- 👪   I enjoy spending time with my family. Every decision I have made has been with family in mind. 
 - 💡   I enjoy gaining inspiration from watching a short clip or comical show often. I believe it is good to start the day with inspiration and a quick laugh. 
 - 🗺️   In the near future, I would love to get out and travel to see family I haven't seen in a while and open my eyes to new destinations through travel. 
 - 🎭   I have always had a fond appreciation for Art and expression of many flavors. Painting, Music, Poetry, Performance arts to name a few. 
