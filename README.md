@@ -7,12 +7,12 @@ I was the kid who took apart his toys to add parts to other toys to make them be
 
 # A bit about me: 
 
-- 👪   I enjoy spending time with my family. Every decision I have made has been with family in mind. 
-- 💡   I enjoy gaining inspiration from watching a short clip or comical show often. I believe it is good to start the day with inspiration and a quick laugh. 
-- 🗺️   In the near future, I would love to get out and travel to see family I haven't seen in a while and open my eyes to new destinations through travel. 
-- 🎭   I have always had a fond appreciation for Art and expression of many flavors. Painting, Music, Poetry, Performance arts to name a few. 
+- I enjoy spending time with my family. Every decision I have made has been with family in mind. 👪  
+- I enjoy gaining inspiration from watching a short clip or comical show often. I believe it is good to start the day with inspiration and a quick laugh. 💡    
+- In the near future, I would love to get out and travel to see family I haven't seen in a while and open my eyes to new destinations through travel. 🗺️   
+- I have always had a fond appreciation for Art and expression of many flavors. Painting, Music, Poetry, Performance arts to name a few.  🎭   
 
-- 📚  [Click here][1] for an update from my latest studies.
+- [Click here][1] for an update from my latest studies. 📚  
 
 [1]:https://github.com/shanewoods/List-of-courses/ "Click here"
 
