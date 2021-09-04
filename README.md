@@ -3,7 +3,7 @@
 I am software engineer currently living in the US 🇺🇸.
 I’m currently learning Front end (html, css, JavaScript) and some Java ☕. 
 
-I was the kid who took apart his toys to add parts to other toys to make them better. I always enjoy breaking things down to see how they work and rebuilding them. Naturally, I enjoy solving problems and as technology involves I work to stay current. 
+I was the kid who took apart his toys to add other toy parts to make them better. I always enjoy breaking things down to see how they work and rebuilding them. Naturally, I enjoy solving problems and as technology involves I work to stay current. 
 
 # A bit about me: 
 
