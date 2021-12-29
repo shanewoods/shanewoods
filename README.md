@@ -16,8 +16,10 @@ I was the kid who took apart his toys to add other toy parts to make them better
 
 [1]:https://github.com/shanewoods/List-of-courses/ "Click here"
 
-Please don't forget to connect with me, I am open to collaboration and looking to share more updates via my social networks as we are mostly remote now I truly enjoy engaging with others and learning from others as much as possible. 
+Please don't forget to connect with me on [LinkedIn][2] or [My Blog][3], I am open to collaboration and looking to share more updates via my social networks as we are mostly remote now I truly enjoy engaging with others and learning from others as much as possible. 
 
+[2]:https://www.linkedin.com/in/1-shane-woods/ "LinkedIn"
+[3]:https://shane-tech.hashnode.dev// "Blog"
 
 
 
